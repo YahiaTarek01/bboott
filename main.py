@@ -1,6 +1,6 @@
 import telebot
 from rapidfuzz import fuzz
-API_TOKEN = '7698088733:AAFa_kPXw844d4sknOftr3X-M04b0AJeuB0'
+API_TOKEN = '7548397230:AAF46A4_vY8298r4IaZQwTxxTU5G_n4tNNo'
 
 bot = telebot.TeleBot(API_TOKEN)
 
